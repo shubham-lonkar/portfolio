@@ -1,13 +1,4 @@
-# Shubham Lonkar
-
-# RTL Design Engineer
-
-#### Technical Skills: 
-**Programming and HDLs: C, Verilog, SystemVerilog, Python
-Technologies: Intel Quartus, ModelSim, Xilinx/AMD Vivado, Synopsys DC, Cadence Virtuoso, Linux
-Certification: SoC Design Using Xilinx FPGAs, Digital Design and Practical Applications
-
-# 👋 Hi, I'm [Shubham Lonkar]!
+## 👋 Hi, I'm Shubham Lonkar!
 
 Welcome to my GitHub Portfolio!  
 I'm a graduate student and hardware engineer passionate about computer architecture, digital systems, and FPGA design.
@@ -78,9 +69,9 @@ _Oct 2022 – March 2024_
 
 ## 📫 Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Email](mailto:your.email@example.com)  
-- [GitHub](https://github.com/your-github-username)
+- [LinkedIn](https://www.linkedin.com/in/shubhamlonkar)  
+- [Email](mailto:shubhamlonkar009@gmail.com)  
+- [GitHub](https://github.com/shubham-lonkar)
 
 ---
 
