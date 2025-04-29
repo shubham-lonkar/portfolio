@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Shubham Lonkar!
-![Profile Picture](/assets/images/head_shot.jpg)
+![Profile Picture](/assets/img/head_shot.jpg)
 
 Welcome to my GitHub Portfolio!  
 I'm a graduate student and hardware engineer passionate about computer architecture, digital systems, and FPGA design.
